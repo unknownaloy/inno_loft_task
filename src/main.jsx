@@ -5,9 +5,9 @@ import './index.css'
 import { Provider } from 'react-redux'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <Provider>
+  // <Provider>
     <React.StrictMode>
       <App />
     </React.StrictMode>,
-  </Provider>
+  // </Provider>
 )
