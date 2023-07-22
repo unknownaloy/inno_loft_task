@@ -8,7 +8,9 @@ export default {
     extend: {
       colors: {
         primary: "#272E71",
-        body: "#F9FAFB"
+        body: "#F9FAFB",
+        grey: "#6B7280",
+        dark: "#374151"
       },
       fontFamily: {
         body: ["Roboto", "sans-serif"],

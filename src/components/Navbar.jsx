@@ -2,7 +2,7 @@ import SearchBar from "./SearchBar";
 
 function Navbar() {
 	return (
-		<div className="fixed flex h-[55px] w-screen items-center bg-white px-[240px] py-[14px] drop-shadow-lg">
+		<div className="fixed flex h-[55px] w-screen items-center bg-white px-[240px] py-[14px] drop-shadow-lg z-10">
 			<div className="mr-[30px] w-[280px]">
 				<img
 					src="https://img.innoloft.com/logo.svg"
